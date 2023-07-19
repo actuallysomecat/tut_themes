@@ -7,7 +7,7 @@ screenshots pending
 - adjust `theme="theme.toml"` as necessary in `~/.config/tut/config.toml` or equivalent.
 
 # themes
-## purplypinkish
+## [purplypinkish](https://github.com/actuallysomecat/tut_themes/blob/main/purplypinkish.toml)
 a purply, pinkish theme
 
 # TODO
