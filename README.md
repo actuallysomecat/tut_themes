@@ -5,7 +5,7 @@ screenshots pending
 
 # installation and usage
 - put `*.toml` file in `~/.config/tut/themes/` or equivalent.
-- adjust `theme="theme.toml"` as necessary in `~/.config/tut/config.toml` or equivalent.
+- adjust `theme=""` as necessary in `~/.config/tut/config.toml` or equivalent (ex: `theme="purplypinkish"`).
 
 # themes
 ## [purplypinkish](https://github.com/actuallysomecat/tut_themes/blob/main/purplypinkish.toml)
